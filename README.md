@@ -1,1 +1,1 @@
-# GSSoC21_Projects
+# Self_Projects
